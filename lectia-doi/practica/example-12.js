@@ -10,4 +10,18 @@ Check password like this:
 If the password is "I'm an admin", then output the string "Hello!"
 Else output the string "Wrong password"*/
 
+const loginAnswer = prompt('Care este username-ul?');
 
+if (loginAnswer === 'Admin') {
+    const passwordAnswer = prompt('Care e parola?');
+
+    if (passwordAnswer === 'Sunt admin') {
+        console.log('Hello');
+    } else {
+        console.log('Parola este gresita');
+    }
+} else if (loginAnswer && loginAnswer.length > 0) {
+    console.log('I don\'t know you');
+} else {
+    console.log('Cancelled');
+}

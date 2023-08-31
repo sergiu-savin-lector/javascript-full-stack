@@ -8,3 +8,15 @@ If it's 3+ days before the deadline - print the string "Date in the future"
 
 
 // Write code below this line
+
+const daysUntilDealine = 2;
+
+if (daysUntilDealine === 0) {
+    console.log('Today');
+} else if (daysUntilDealine === 1) {
+    console.log('Tomorrow');
+} else if (daysUntilDealine === 2) {
+    console.log('The day after tomorrow');
+} else {
+    console.log('Date in the future');
+}
