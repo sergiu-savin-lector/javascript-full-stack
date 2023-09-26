@@ -1,0 +1,169 @@
+@import url("https://cdn.jsdelivr.net/npm/modern-normalize@2.0.0/modern-normalize.min.css");
+@import "./base/reset";
+@import "./base/fonts";
+@import "./base/variables";
+@import "./base/typography";
+
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background-color: var(--primary-color);
+  color: var(--text-color);
+}
+
+dl {
+  padding: 16px;
+  border: 3px double #ccc;
+  line-height: 1.5rem;
+}
+
+dt {
+  font-weight: bold;
+  color: orange;
+
+  &::after {
+    content: ":";
+  }
+
+  & + dt {
+    margin-top: 16px;
+  }
+}
+
+code {
+  background: #f4f4f4;
+  border: 1px solid #ddd;
+  border-left: 3px solid #f36d33;
+  color: #666;
+  page-break-inside: avoid;
+  font-family: monospace;
+  font-size: 15px;
+  line-height: 1.6;
+  margin-bottom: 1.6em;
+  max-width: 100%;
+  overflow: auto;
+  padding: 1em 1.5em;
+  display: block;
+  word-wrap: break-word;
+  white-space: pre-wrap;
+}
+
+a,
+a:visited {
+  color: var(--link-examples-color);
+  text-decoration: none;
+
+  &:hover,
+  &:focus {
+    text-decoration: underline;
+  }
+}
+
+.primary-page {
+  color: white;
+  background-color: var(--accent-color);
+}
+
+.example-page {
+  padding: 16px;
+
+  h1 {
+    font-size: 36px;
+    font-weight: bold;
+  }
+
+  a {
+    color: var(--link-examples-color);
+    text-decoration: underline;
+  }
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.bullet-list {
+  padding: 16px;
+  list-style-type: circle;
+
+  li {
+    line-height: 1.5rem;
+  }
+}
+
+.answers-list {
+  list-style-type: circle;
+
+  li + li {
+    margin-top: 16px;
+  }
+
+  a,
+  a:visited {
+    color: var(--link-color);
+    margin-left: 8px;
+    text-decoration: none;
+
+    &:hover,
+    &:focus {
+      color: var(--link-color_hover);
+      text-decoration: underline;
+    }
+
+    &::before {
+      content: "\2192";
+      margin-right: 4px;
+      text-decoration: none;
+    }
+  }
+}
+
+/* Topic Page */
+.lesson-example {
+  border: 1px dashed gray;
+  padding: 8px;
+  margin-top: 32px;
+}
+
+.mt-xs {
+  margin-top: 16px;
+}
+
+.mt-md {
+  margin-top: 32px;
+}
+
+.mt-lg {
+  margin-top: 64px;
+}
+
+.p-md {
+  padding: 16px;
+}
+
+.note {
+  background: lightblue;
+  border: 1px solid #79abbb;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+  padding: 16px;
+}
+
+.blue-bg {
+  color: white;
+  background: #182e6d;
+}
+
+.strong {
+  font-weight: bold;
+}
+
+.two-column {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  gap: 16px;
+}
