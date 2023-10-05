@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Intrebari</title>
+  </head>
+  <body>
+    <div id="wrapper"></div>
+    <script>
+      
+      function foo() {
+        console.log(this);
+      }
+
+      foo();
+
+      function addFive(num) {
+        return num + 5;
+      }
+
+      console.log(addFive(10))
+
+      const addFiveResult = addFive(20);
+      console.log(addFiveResult);
+
+      const addFiveCopy = addFive;
+      console.log(addFiveCopy);
+      console.log(addFiveCopy(30));
+
+      const myObj = {
+        fullName: 'Sergiu Savin',
+        logName: function() {
+          console.log(this.fullName);
+        }
+      }
+
+      myObj.logName();
+
+      const newObjFunctionCopy = myObj.logName;
+      newObjFunctionCopy();
+
+      const newObj = {
+        fullName: 'Alex',
+        doTheCopy: myObj.logName
+      }
+
+      newObj.doTheCopy();
+      console.log(newObj.anyPropertyThatDoesntExistWilBeUndefined); // nu scrieti vreodata denumiri de variabile asa lungi
+      console.log(newObj.property?.anyPropertyThatDoesntExistWilBeUndefined); // eroare, null check operator
+
+      console.log(this);
+
+
+    </script>
+  </body>
+</html>
