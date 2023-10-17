@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./css/main.min.css" />
+    <title>Javascript Modulul 6 - Lectia 11</title>
+    <style>
+      .red {
+        color: red;
+      }
+    </style>
+  </head>
+  <body class="primary-page mt-md">
+    <main class="container">
+      <h1 class="heading-primary">
+        Javascript - Modulul 6 - Lecția 11. DOM (Document Object Model)
+      </h1>
+      <ul class="answers-list">
+        <li>Test</li>
+        <li>Ierarhia elementelor DOM</li>
+        <li>Căutarea elementelor DOM cu querySelector</li>
+        <li>Proprietatea textContent</li>
+        <li id="red" class="firstClass secondClass">Lucrul cu classList și atribute</li>
+        <li>Crearea elementelor</li>
+        <li>Inserarea elementelor: append, prepend, before și after</li>
+        <li>Eliminare prin metoda de eliminare</li>
+        <li>Proprietatea innerHTML și metoda insertAdjacentHTML</li>
+      </ul>
+      <button onclick="makeTextRed()">Make red</button>
+      <h2>Alte</h2>
+      <ul class="answers-list">
+        <li>
+          <a href="./intrebari/intrebari.html"> Intrebari </a>
+        </li>
+        <li>
+          <a href="./practica/index.html"> Practica </a>
+        </li>
+      </ul>
+    </main>
+    <script defer>
+      function makeTextRed() {
+        const redElem = document.querySelector("#red");
+        redElem.classList.add("red");
+        console.dir(redElem);
+        redElem.textContent = "Acest text a fost schimbat dinamic";
+        console.log(redElem);
+      }
+    </script>
+  </body>
+</html>
