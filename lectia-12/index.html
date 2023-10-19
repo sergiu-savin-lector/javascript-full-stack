@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Javascript Modulul 6 - Lectia 12</title>
+    <style>
+      .red {
+        color: blue;
+      }
+    </style>
+  </head>
+  <body class="primary-page mt-md">
+    <main class="container">
+      <h1 class="heading-primary">
+        Javascript - Modulul 6 - Lecția 12. Evenimente
+      </h1>
+      <ul class="answers-list">
+        <li>
+          Elementele de bază ale evenimentelor. Crearea și ștergerea
+          ascultătorilor
+        </li>
+        <li id="red">Obiect eveniment</li>
+        <li>Anularea comportamentului implicit al browser-ului</li>
+        <li>
+          Evenimentele click, change, input, submit, focus, blur and keydown
+        </li>
+      </ul>
+      <button onclick="makeTextRed()">Make red</button>
+      <h2>Alte</h2>
+      <ul class="answers-list">
+        <li>
+          <a href="./intrebari/intrebari.html"> Intrebari </a>
+        </li>
+        <li>
+          <a href="./practica/index.html"> Practica </a>
+        </li>
+      </ul>
+    </main>
+    <script defer>
+      function makeTextRed() {
+        const elemA = document.querySelector("#red");
+        elemA.classList.add("red");
+        elemA.textContent = "Elementul A";
+        console.log(elemA);
+      }
+    </script>
+  </body>
+</html>
