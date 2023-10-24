@@ -1,38 +1,108 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Javascript</title>
-    <style>
 
-      .section-exercise {
-        background-color: lightgreen;
-        border: 1px solid green;
-      }
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Javascript</title>
+  <style>
+    .section-exercise {
+      background-color: lightgreen;
+      border: 1px solid green;
+    }
 
-      .section-exercise div {
-        border: 1px solid blue;
-        background-color: lightblue;
-      }
+    .section-exercise div {
+      border: 1px solid blue;
+      background-color: lightblue;
+    }
 
-      .section-exercise p {
-        background: lightcoral;
-        border: 1px solid red;
-      }
-    </style>
-  </head>
-  <body>
-    <main class="container example-page">
-      <h1 class="heading-primary sticky">Practica</h1>
+    .section-exercise p {
+      background: lightcoral;
+      border: 1px solid red;
+    }
 
-      <section class="section-exercise">
-        <div>DIV
-          <p>P</p>
-        </div>
-      </section>
-     
+    .container-calculator {
+      width: 300px;
+      background-color: beige;
+      margin: auto;
+      border: 5px;
+      padding: 30px;
+    }
+
+    .title {
+      text-align: center;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    input {
+      display: block;
+      width: 100%;
+      border-radius: 3px;
+      border: 1px solid black;
+      padding: 5px;
+      margin-top: 10px;
+    }
+
+    #price {
+      margin-bottom: 10px;
+    }
+
+    .total {
+      text-align: right;
+      font-size: 30px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: 700;
+      margin-bottom: 0;
+    }
+
+    .amount {
+      background-color: blue;
+      display: inline-block;
+      padding: 1px 5px;
+      margin: 0 5px;
+      border-radius: 3px;
+      color: #fff;
+    }
+  </style>
+</head>
+
+<body>
+  <main class="container example-page">
+    <h1 class="heading-primary sticky">Practica</h1>
+
+    <!-- Section Exercise -- Bubbling -->
+    <section class="section-exercise">
+      <div>DIV
+        <p>P</p>
+      </div>
+    </section>
+
+
+    <!-- Event bubbling example -->
+    <ul class="countries-list">
+      <li>Romania</li>
+      <li>Ucraina</li>
+      <li>Moldova</li>
+      <li>Bulgaria</li>
+      <li>Ungaria</li>
+    </ul>
+
+
+    <div class="container-calculator">
+      <h2 class="title">How much does barbecue meat cost?</h2>
+      <form action="#" class="form" id="form">
+        <label for="price">Price USD</label>
+        <input type="text" id="price" name="price" value="50">
+        <label for="quantity">
+          Amount <span class="amount" id="amount">1</span> pound
+        </label>
+        <input type="range" id="quantity" name="quantity" value="1" min="1" max="20">
+      </form>
+      <p id="total" class="total">N/A</p>
+    </div>
+
     <script type="module" src="./script.js"></script>
-  </body>
+</body>
+
 </html>
