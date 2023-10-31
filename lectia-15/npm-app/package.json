@@ -1,0 +1,11 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "O scurta descriere",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"'"
+  },
+  "author": "sergiu",
+  "license": "ISC"
+}
