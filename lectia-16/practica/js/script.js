@@ -1,3 +1,37 @@
+// console.log('before try catch')
+
+// const data = '{"name": "John", "age": "30", "car": null,}';
+
+// try {
+//   console.log(JSON.parse(data));
+// } catch (error) {
+//   console.error(error)
+// }
+
+// for (let i = 0; i < 10; i++) {
+//   try {
+//     console.log('inainte de ' + i);
+//     if(i === 5) throw new Error('i is 5');
+//     console.log('dupa ' + i);
+//   } catch(error) {
+//     console.error(error)
+//   }
+// }
+
+// console.log('Restul codul meu');
+
+// -----------------------------------------------------------------------
+
+// import {save, load} from './storage.js';
+
+// const formData = {
+//   email: 'test@gmail.com',
+//   message: 'Salut'
+// }
+
+// save('test', formData);
+
+// ----------------------------------------------------------------------
 
 /*
 Write a Todo-list where you can create, delete items and save the list in local storage
@@ -25,3 +59,91 @@ Styles and markup can be taken from here - https://www.w3schools.com/howto/tryit
     3. write the logic of the function that will retrieve data from storage and add them to the page in the form of extras
     4. write the logic for removing the task from the page and for updating the status of the task.
 */
+
+import { save, load } from './storage.js';
+
+const addBtn = document.getElementById('addBtn');
+const myUL = document.getElementById('myUL');
+const input = document.getElementById('myInput');
+
+const TASK_KEY = 'tasks';
+
+let currentId = 0;
+
+addBtn.addEventListener('click', addNewTask);
+myUL.addEventListener('click', handleTaskBehaviour);
+window.addEventListener('DOMContentLoaded', fillTasksList)
+
+function addNewTask() {
+  const value = input.value;
+
+  if (!value) {
+    alert('Trebuie sa adaugi un text pt task');
+    console.error('Trebuie sa adaugi un text pt task');
+    return;
+  }
+
+  createLi(value);
+  addTaskToStorage(value);
+  input.value = '';
+}
+
+function createLi(text, isDone = false, id = currentId) {
+  const liEL = document.createElement('LI');
+  const liText = document.createTextNode(text);
+  liEL.appendChild(liText);
+  liEL.dataset.id = id;
+  myUL.appendChild(liEL);
+  addCloseButton(liEL);
+}
+
+function addCloseButton(li) {
+  const span = document.createElement('SPAN');
+  const text = document.createTextNode("\u00D7");
+  span.className = 'close';
+  span.appendChild(text);
+  li.appendChild(span);
+}
+
+const createTaskObject = (text, isDone) => ({ text, isDone, id: currentId });
+
+function addTaskToStorage(text, isDone = false) {
+  let currentState = load(TASK_KEY);
+  const newTask = createTaskObject(text, isDone);
+  if (currentState === undefined) {
+    save(TASK_KEY, [newTask])
+  } else {
+    currentState.push(newTask);
+    save(TASK_KEY, currentState);
+  }
+  currentId += 1;
+}
+
+function fillTasksList() {
+  const currentState = load(TASK_KEY);
+  if (currentState !== undefined) {
+    currentState.forEach(({ text, isDone, id }) => createLi(text, isDone, id));
+    currentId = currentState[currentState.length - 1].id + 1;
+  }
+}
+
+function handleTaskBehaviour({ target }) {
+  const currentState = load(TASK_KEY);
+
+  if (target.tagName === "LI") {
+    target.classList.toggle("checked");
+    const taskIndex = currentState.findIndex(
+      (taskObj) => +taskObj.id === +target.dataset.id
+    );
+    currentState[taskIndex].isDone = !currentState[taskIndex].isDone;
+  } else if (target.classList.contains("close")) {
+    target.parentNode.remove();
+    const taskIndex = currentState.findIndex(
+      (taskObj) => +taskObj.id === +target.parentNode.dataset.id
+    );
+    currentState.splice(taskIndex, 1);
+  }
+  save(TASK_KEY, currentState);
+}
+
+
