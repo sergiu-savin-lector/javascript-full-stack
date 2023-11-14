@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HTTP Requests</title>
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+  <body>
+    <form id="form">
+      <input type="text" name="news" placeholder="Search news" autocomplete="off" />
+      <input type="submit" value="Search" />
+    </form>
+    <div id="loading" class="hidden">
+      <div class="loading-spinner"></div>
+      Loading...
+    </div>
+
+    <div id="articlesWrapper"></div>
+
+    <!-- <script src="./js/api.js" type="module"></script> -->
+    <script src="./js/script.js" type="module"></script>
+  </body>
+</html>
