@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 60408,
+    "articles": [
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mariella Moon",
+            "title": "SpaceX prepares for Starship's second test flight after securing FAA clearance",
+            "description": "SpaceX aims to send Starship to space for its second test flight on November 17, now that the Federal Aviation Administration (FAA) has given it the clearance to do so. The company completed its next-generation spacecraft's first fully integrated launch in Ap…",
+            "url": "https://www.engadget.com/spacex-prepares-for-starships-second-test-flight-after-securing-faa-clearance-035159364.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/lEt1C9IN9GMY6bxguFJjRA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDI-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/0351c480-8429-11ee-9fd7-5c6b23eefb6c",
+            "publishedAt": "2023-11-16T03:51:59Z",
+            "content": "SpaceX aims to send Starship to space for its second test flight on November 17, now that the Federal Aviation Administration (FAA) has given it the clearance to do so. The company completed its next… [+1545 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Richard Lawler",
+            "title": "After Starfield’s shaky launch, it’s going to beta test the next patch soon",
+            "description": "Starfield PC players can enter a Steam beta program to try out the update with support for Nvidia’s DLSS 3 upscaling technology next week, while support for AMD FSR3 tech will have to wait for a future update.",
+            "url": "https://www.theverge.com/2023/11/1/23942435/starfield-dlss-3-pc-update-steam-beta",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/5TTvkCcSEblXs-zMzF5SKMGcbFw=/0x0:2560x1440/1200x628/filters:focal(1280x720:1281x721)/cdn.vox-cdn.com/uploads/chorus_asset/file/24548947/Starfield__Official_Gameplay_Reveal_____Starfield__Official_Gameplay_Reveal_2023_3_30_154520.999_1440p_streamshot.png",
+            "publishedAt": "2023-11-01T20:41:17Z",
+            "content": "Starfields DLSS 3 support is coming in a beta patch soon\r\nStarfields DLSS 3 support is coming in a beta patch soon\r\n / PC gamers can try out the official Starfield DLSS patch with support for Nvidias… [+2257 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Maxwell Zeff",
+            "title": "Google: Hey Kid, Wanna Cheat on Your Math Test?",
+            "description": "Google launched new features for Search and Lens in an update to help users solve difficult math, physics, and geometry problems, the company said in a blog post Monday. Simply type an equation into the search bar, or take a picture of your homework with Lens…",
+            "url": "https://gizmodo.com/google-takes-cheating-to-a-new-level-1850982478",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/02a1ba3a4c8e0915c018eb03763c2b65.jpg",
+            "publishedAt": "2023-11-01T21:20:00Z",
+            "content": "Google launched new features for Search and Lens in an update to help users solve difficult math, physics, and geometry problems, the company said in a blog post Monday. Simply type an equation into … [+1607 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "George Dvorsky",
+            "title": "SpaceX’s Starship Clears Crucial Hurdle in Dramatic Second Flight Test",
+            "description": "SpaceX’s latest test flight of the Starship rocket lasted for around eight minutes—twice the length of the previous test. Both the booster and the Starship upper stage were lost, but SpaceX achieved many key milestones during the flight test.Read more...",
+            "url": "https://gizmodo.com/spacex-starship-megarocket-second-flight-hot-staging-1851033368",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/0995626312426d1c63a2fce20603c8aa.png",
+            "publishedAt": "2023-11-18T13:52:56Z",
+            "content": "SpaceXs latest test flight of the Starship rocket lasted for around eight minutestwice the length of the previous test. Both the booster and the Starship upper stage were lost, but SpaceX achieved ma… [+3337 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Reddit is starting to test its own add-ons for the platform",
+            "description": "Reddit is beginning to test the first of its own add-ons built through its Developer Platform, including tools for mods and posts that are live scoreboards.",
+            "url": "https://www.theverge.com/2023/11/7/23950696/reddit-developer-platform-add-ons-test",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/XK89Z8iUT2qagVhFK6REkJj4Syg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23985507/acastro_STK024_03.jpg",
+            "publishedAt": "2023-11-07T20:00:00Z",
+            "content": "Reddit is starting to test its own add-ons for the platform\r\nReddit is starting to test its own add-ons for the platform\r\n / The new tools will help mods and let people make posts with live scoreboar… [+2636 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Ed Cara",
+            "title": "There's Now a Tampon That Can Test for STIs",
+            "description": "A UK-based startup is hoping to turn their specialized tampons into a popular test for sexually transmitted infections. The company Daye has launched a new at-home screening service for chlamydia, gonorrhea, and other common STIs. The test is currently only a…",
+            "url": "https://gizmodo.com/daye-tampon-can-test-for-stis-1851000035",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/2b842c6e4fd7797dc8e7960ba345542f.jpg",
+            "publishedAt": "2023-11-07T21:00:00Z",
+            "content": "A UK-based startup is hoping to turn their specialized tampons into a popular test for sexually transmitted infections. The company Daye has launched a new at-home screening service for chlamydia, go… [+3539 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Chris Haslam",
+            "title": "Best Fitting T-Shirts for Men (According to a Savile Row Tailor)",
+            "description": "Bombarded by social media ads promising the “perfect” T-shirt whatever your shape, WIRED put these claims to the test with world-famous Savile Row tailors Gieves & Hawkes.",
+            "url": "https://www.wired.com/gallery/best-fitting-t-shirts-men/",
+            "urlToImage": "https://media.wired.com/photos/65441f0d6d1264d2dace01fe/191:100/w_2580,c_limit/Best-White-Shirts-New-2-Gear.jpg",
+            "publishedAt": "2023-11-03T13:30:00Z",
+            "content": "SCORES:\r\nMott &amp; Bow M8 / C8 / J7 TOTAL: 23\r\nColorful Standard M8 / C7 / J8 TOTAL: 23\r\nAsket M7 / C8 / J7 TOTAL: 22\r\nSon of a Tailor M5 / C8 / J7 TOTAL: 20\r\nUniqlo M6 / C7 / J6 TOTAL: 19\r\nSunspel … [+1808 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Paresh Dave",
+            "title": "YouTube’s Ad Blocker Crackdown Spurs Record Uninstalls",
+            "description": "YouTube expanded a “test” that threatens to cut off users who don't turn off their ad blocker. Developers of the tools are scrambling to respond.",
+            "url": "https://www.wired.com/story/youtubes-ad-blocker-crackdown-spurs-record-uninstalls/",
+            "urlToImage": "https://media.wired.com/photos/654448fc9fce6b1f9cffea58/191:100/w_1280,c_limit/Youtube-Ad-Blocker-Business-1314220578.jpg",
+            "publishedAt": "2023-11-03T11:00:00Z",
+            "content": "Google has had a complicated relationship with the ad blocking industry. The Google Play mobile app store, unlike Apples App Store, has banned ad blockers for about a decade. But Chrome, which Google… [+2226 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "George Dvorsky",
+            "title": "16 Takeaways From the Explosive Second Test of SpaceX’s Starship Megarocket",
+            "description": "Starship pierced through clear south Texas skies on Saturday morning, for what turned out to be an eight-minute-long mission. The megarocket failed once again, but SpaceX achieved significant progress in various critical mission objectives. Read more...",
+            "url": "https://gizmodo.com/takeaways-spacex-second-test-starship-megarocket-musk-1851035301",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/9be7303a97324f0aab07f78231359fea.jpg",
+            "publishedAt": "2023-11-20T18:30:00Z",
+            "content": "Starship explosion\r\nHowever, the Super Heavy booster unexpectedly exploded around three minutes and 17 seconds into the mission, potentially due to the extra strain caused by the hot-staging process.… [+786 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Jack Murtagh",
+            "title": "Gizmodo Monday Puzzle: Can You Pass This Finance Job Interview Test?",
+            "description": "This week’s lovely puzzle was brought to my attention by one of our readers, Nicolas Audet. Nicolas says it was used as a brain teaser for a finance job interview. I have to hand it to Wall Street on this one—it’s a delightful little puzzle. Thanks for sharin…",
+            "url": "https://gizmodo.com/gizmodo-monday-puzzle-finance-job-interview-test-1850948752",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/6b438c0461e2773e6f7a3cffe5f4aa60.jpg",
+            "publishedAt": "2023-11-06T12:45:00Z",
+            "content": "This weeks lovely puzzle was brought to my attention by one of our readers, Nicolas Audet. Nicolas says it was used as a brain teaser for a finance job interview. I have to hand it to Wall Street on … [+6130 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jon Porter",
+            "title": "Signal tests usernames so you can avoid sharing your phone number",
+            "description": "Signal is publicly testing adding usernames to user accounts so they don’t have to share their phone number to connect via the encrypted messaging service.",
+            "url": "https://www.theverge.com/2023/11/9/23953603/signal-username-feature-test-phone-numbers-privacy-security-pre-beta-2024-launch",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/rq96XWv2Qf6tpod-t_eG30xMeAk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23999454/acastro_STK459_03.jpg",
+            "publishedAt": "2023-11-09T09:43:24Z",
+            "content": "Signal tests usernames so you can avoid sharing your phone number\r\nSignal tests usernames so you can avoid sharing your phone number\r\n / The encrypted messaging service is opening up a limited public… [+2474 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "US House to consider stopgap measure to avert shutdown",
+            "description": "Republican Speaker Mike Johnson will face his first major test as his plan goes before the House.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-67418938",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/150D8/production/_131723268_mikejohnson.jpg",
+            "publishedAt": "2023-11-14T15:59:52Z",
+            "content": "New US House Speaker Mike Johnson will soon face his first major test as the chamber votes on his proposal to keep government funded past 17 November. \r\nThe stopgap measure would keep all federal age… [+1915 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Passant Rabie",
+            "title": "Space Force’s Elusive Spaceplane Is Launching on SpaceX’s Falcon Heavy for the First Time",
+            "description": "After wrapping up a lengthy mission in Earth orbit nearly a year ago, Space Force’s spaceplane is ready to take off again for the seventh flight of the Shuttlesque test vehicle.Read more...",
+            "url": "https://gizmodo.com/space-force-spaceplane-spacex-falcon-heavy-1851007208",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/bed2d97e097c8301c011bbe381002e33.jpg",
+            "publishedAt": "2023-11-09T16:25:00Z",
+            "content": "After wrapping up a lengthy mission in Earth orbit nearly a year ago, Space Forces spaceplane is ready to take off again for the seventh flight of the Shuttlesque test vehicle.\r\nThe X-37B Mission 7 i… [+2038 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Dua Rashid",
+            "title": "Honda Motocompacto Hands-On: Goofy-Looking But True To Its Name",
+            "description": "Honda recently released a quite unique (read: goofy) looking e-scooter, the Motocompacto, and I got the opportunity to take it on a test ride, and I think it’s safe to say that it made an impression. Read more...",
+            "url": "https://gizmodo.com/honda-motocompacto-hands-on-escooter-1850991881",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/ce05dd2a2be08433a57f25d4bfa0ba5c.jpg",
+            "publishedAt": "2023-11-04T17:05:00Z",
+            "content": "Honda recently released a quite unique (read: goofy) looking e-scooter, the Motocompacto, and I got the opportunity to take it on a test ride, and I think its safe to say that it made an impression. … [+3567 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Maryn McKenna",
+            "title": "A Surge in Babies Born With Syphilis Is a Warning Sign",
+            "description": "Although transmission of syphilis to newborns can be prevented with a single shot for pregnant women, cases in the US rose tenfold in a decade.",
+            "url": "https://www.wired.com/story/a-surge-in-babies-born-with-syphilis-is-a-warning-sign/",
+            "urlToImage": "https://media.wired.com/photos/65554ccd0ddc9160a6730290/191:100/w_1280,c_limit/syphillis-science-GettyImages-1177366643.jpg",
+            "publishedAt": "2023-11-16T13:00:00Z",
+            "content": "Those trends have combined to affect women from vulnerable communities usually women who are Black or brown, with lower financial means, lack of access to transportation, [and] inability to take time… [+2564 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "Becca Lewis",
+            "title": "How to Add a Light Switch to Any Existing Outlet",
+            "description": "If you have a room with no overhead light fixture, or one in which the main light switch isn’t convenient, you can solve your problem by adding a switch to one of your power outlets to control a lamp instead. Whether it’s in an entryway, bedroom, or some othe…",
+            "url": "https://lifehacker.com/how-to-add-a-light-switch-to-any-existing-outlet-1850988750",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/13f20375e429a2a122b57bffed647eb4.jpg",
+            "publishedAt": "2023-11-03T14:00:13Z",
+            "content": "If you have a room with no overhead light fixture, or one in which the main light switch isnt convenient, you can solve your problem by adding a switch to one of your power outlets to control a lamp … [+3765 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Jesse Orrall",
+            "title": "Test-Driving the 100% Electric Arc One Speedboat - CNET",
+            "description": "We visited Long Beach, California, to get our hands on the Arc One, a limited-edition luxury speedboat powered by two huge battery packs and cooled by the surrounding water.",
+            "url": "https://www.cnet.com/roadshow/news/test-driving-the-100-electric-arc-one-speedboat/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/40e54ed7cba565c3d9ffe6683864340414e1071a/hub/2023/11/10/fc2eedea-7ef2-4706-9e8b-5436f20d5e2a/arc-3.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2023-11-12T13:00:13Z",
+            "content": "The first thing I noticed about the Arc One, a speedboat that runs only on electricity, was how quiet it is. Like an electric car, it runs much quieter than its gas-engine counterpart. When the boat … [+1797 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Will Shanklin",
+            "title": "NYU is developing 3D streaming video tech with the help of its dance department",
+            "description": "NYU is launching a project to spur the development of immersive 3D video for dance education — and perhaps other areas. Boosted by a $1.2 million four-year grant from the National Science Foundation, the undertaking will try to make Point-Cloud Video (PCV) te…",
+            "url": "https://www.engadget.com/nyu-is-developing-3d-streaming-video-tech-with-the-help-of-its-dance-department-211947160.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/dZPTMHBkqy1i9MYId6mwkQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/870afab0-7765-11ee-bcec-2b3b0d505156",
+            "publishedAt": "2023-10-30T21:19:47Z",
+            "content": "NYU is launching a project to spur the development of immersive 3D video for dance education and perhaps other areas. Boosted by a $1.2 million four-year grant from the National Science Foundation, t… [+2406 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Sabina Graves",
+            "title": "Squid Game: The Challenge Goes Full Meta With Reality Show",
+            "description": "The social experiments seen in Netflix’s Squid Game dystopian future series have become real in our dystopian present: the trailer for the reality game show inspired by the hit series gathers 456 real contestants to put their skills to the test for that grand…",
+            "url": "https://gizmodo.com/squid-game-the-challenge-netflix-reality-show-trailer-1850950324",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/a159e8c1557979102cae8e2d08c1b855.png",
+            "publishedAt": "2023-10-23T17:15:00Z",
+            "content": "The social experiments seen in Netflixs Squid Game dystopian future series have become real in our dystopian present: the trailer for the reality game show inspired by the hit series gathers 456 real… [+1348 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Stephen Clark",
+            "title": "If the next Starship makes it through staging, you can call that a win",
+            "description": "A key moment will come 2 minutes and 41 seconds into the next Starship test flight.",
+            "url": "https://arstechnica.com/space/2023/11/if-the-next-starship-makes-it-through-staging-you-can-call-that-a-win/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/starship2-760x380.jpg",
+            "publishedAt": "2023-11-08T15:29:18Z",
+            "content": "Enlarge/ SpaceX's second Starship rocket stands a few feet taller than the first iteration of the full-size vehicle.\r\n23 with \r\nSpaceX will have answers to some burning questions in the first three m… [+3810 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Stephen Clark",
+            "title": "SpaceX delays launch of its giant Starship rocket to swap out a part",
+            "description": "SpaceX is now targeting Saturday for the second full-scale Starship test flight.",
+            "url": "https://arstechnica.com/space/2023/11/elon-musk-confirms-a-one-day-delay-for-spacexs-starship-test-flight/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_3360-copy-760x380.jpg",
+            "publishedAt": "2023-11-16T22:23:10Z",
+            "content": "Enlarge/ The upper stage of SpaceX's Super Heavy-Starship launch vehicle was removed from its position atop the rocket Thursday, clearing the way for the swap-out of a component on the booster stage.… [+3377 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Stephen Clark",
+            "title": "India celebrates “first major milestone” on path to launching astronauts",
+            "description": "This was a test of the launch abort system for India's Gaganyaan spacecraft.",
+            "url": "https://arstechnica.com/space/2023/10/india-celebrates-first-major-milestone-on-path-to-launching-astronauts/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/tvd1abort-760x380.jpg",
+            "publishedAt": "2023-10-23T21:12:35Z",
+            "content": "Enlarge/ A forward-facing camera on the top of an Indian booster captured this view of a Gaganyaan test spacecraft firing its abort motor to propel itself off the rocket.\r\n4 with \r\nIn 2018, Indian Pr… [+5699 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Beth Mole",
+            "title": "Daycare TB case exposes over 500 babies, children; emergency declared",
+            "description": "The health department has set up multiple clinics to test children as quickly as possible.",
+            "url": "https://arstechnica.com/health/2023/11/daycare-tb-case-exposes-over-500-babies-children-emergency-declared/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/GettyImages-1358937217-760x380.jpeg",
+            "publishedAt": "2023-11-13T17:55:24Z",
+            "content": "Enlarge/Mycobacterium tuberculosis.\r\n14 with \r\nHealth officials in Omaha, Nebraska, are wasting no time in testing over 500 infants, toddlers, and children who may have been exposed to an active tube… [+2538 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Wes Davis",
+            "title": "OpenAI rival Anthropic makes its Claude chatbot even more useful",
+            "description": "Claude can now handle double the number of tokens with half the hallucinations and gets new API tools in Anthropic’s latest chatbot update.",
+            "url": "https://www.theverge.com/2023/11/21/23971070/anthropic-claude-2-1-openai-ai-chatbot-update-beta-tools",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/m-QxK3p-ypOU6Zz1_AvfCX7RV8E=/0x0:2880x1620/1200x628/filters:focal(1440x810:1441x811)/cdn.vox-cdn.com/uploads/chorus_asset/file/25102509/Claude_2.1_Blog.png",
+            "publishedAt": "2023-11-21T20:09:14Z",
+            "content": "OpenAI rival Anthropic makes its Claude chatbot even more useful\r\nOpenAI rival Anthropic makes its Claude chatbot even more useful\r\n / Claude 2.1 doubles the number of tokens the chatbot can interpre… [+1997 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Kris Holt",
+            "title": "Uber is clamping down on users who give bad ratings just to get refunds",
+            "description": "Uber\r\n drivers (and riders\r\n) need to maintain a high rating to keep using the app, but bad actors can pull that score down. Some may even give a driver or courier a poor rating for a perfectly fine ride or food delivery just so they can get a refund. Uber sa…",
+            "url": "https://www.engadget.com/uber-is-clamping-down-on-users-who-give-bad-ratings-just-to-get-refunds-164045280.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Rh6KugDOYYkRIhXw3AHHOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://s.yimg.com/os/creatr-images/2020-03/6d160980-684e-11ea-af5e-95593d0bd945",
+            "publishedAt": "2023-11-14T16:40:45Z",
+            "content": "Uber\r\n drivers (and riders\r\n) need to maintain a high rating to keep using the app, but bad actors can pull that score down. Some may even give a driver or courier a poor rating for a perfectly fine … [+2571 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Sarah Fielding",
+            "title": "Instagram finally begins testing an option to turn off read receipts",
+            "description": "Providing read receipts has long been a choice across almost every messaging platform. Now, one of the biggest holdouts, Instagram, is finally testing a feature that lets users hide when they've \"seen\" a message. Meta CEO Mark Zuckerberg and Instagram head Ad…",
+            "url": "https://www.engadget.com/instagram-finally-begins-testing-an-option-to-turn-off-read-receipts-131557528.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/mI1mhBN5dyCxqvRdfFKycQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NjY-/https://s.yimg.com/os/creatr-uploaded-images/2023-08/9e454ce0-4758-11ee-b7a7-bd94d2bd1e1b",
+            "publishedAt": "2023-11-08T13:15:57Z",
+            "content": "Providing read receipts has long been a choice across almost every messaging platform. Now, one of the biggest holdouts, Instagram, is finally testing a feature that lets users hide when they've \"see… [+1253 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mariella Moon",
+            "title": "Rockstar may announce Grand Theft Auto VI this week",
+            "description": "We may get official details about Grand Theft Auto VI very, very soon, if Bloomberg's report turns out to be true. Rockstar Games plans to announce the next entry in the GTA franchise as early as this week, according to the news organization. Plus, Rockstar i…",
+            "url": "https://www.engadget.com/rockstar-may-announce-grand-theft-auto-vi-this-week-045219455.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TYH6zvOkBVpGgKc.AqIJig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/2dff92c0-7de9-11ee-af97-93d16a78333b",
+            "publishedAt": "2023-11-08T04:52:19Z",
+            "content": "We may get official details about Grand Theft Auto VI very, very soon, if Bloomberg's report turns out to be true. Rockstar Games plans to announce the next entry in the GTA franchise as early as thi… [+1167 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mat Smith",
+            "title": "The Morning After: Microsoft recruits recently fired OpenAI CEO, Sam Altman",
+            "description": "OpenAI’s board of directors announced Friday it had fired CEO Sam Altman. But he’s doing okay. By Monday morning, he had joined Microsoft “to lead a new advanced AI research team,” according to the company.\nAltman cofounded OpenAI with Elon Musk in 2015 as a …",
+            "url": "https://www.engadget.com/the-morning-after-microsoft-recruits-recently-fired-openai-ceo-sam-altman-121523955.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TdeBQRLZ0qN0hkvKFENN6A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04NTc-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/7661fd60-85cc-11ee-bddf-d93b4819eea6",
+            "publishedAt": "2023-11-20T12:15:23Z",
+            "content": "OpenAIs board of directors announced Friday it had fired CEO Sam Altman. But hes doing okay. By Monday morning, he had joined Microsoft to lead a new advanced AI research team, according to the compa… [+3202 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Radek Zielinski",
+            "title": "Musk’s Neuralink faces its biggest test yet with human trials",
+            "description": "Elon Musk’s neurotechnology company Neuralink is preparing for the most high-stakes launch of the billionaire entrepreneur’s career — its first-ever […]\nThe post Musk’s Neuralink faces its biggest test yet with human trials appeared first on ReadWrite.",
+            "url": "https://readwrite.com/musks-neuralink-faces-its-biggest-test-yet-with-human-trials/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2023/11/Musks-Neuralink.jpg",
+            "publishedAt": "2023-11-07T23:00:09Z",
+            "content": "Elon Musk’s neurotechnology company Neuralink is preparing for the most high-stakes launch of the billionaire entrepreneur’s career — its first-ever human clinical trial.\r\nAccording to a recent Bloom… [+2102 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Russia says it rehearsed 'massive' nuclear strike",
+            "description": "The drills come as Moscow pulls out of a treaty banning physical nuclear weapons tests.",
+            "url": "https://www.bbc.co.uk/news/world-europe-67222213",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E8D3/production/_131530695_mediaitem131530503.jpg",
+            "publishedAt": "2023-10-25T18:24:53Z",
+            "content": "Russia has rehearsed its ability to deliver a \"massive\" nuclear strike, the Kremlin says.\r\nThe military exercise involved delivering a \"response to an enemy nuclear strike\", Defence Minister Sergei S… [+2256 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Kotaku"
+            },
+            "author": "Ethan Gach",
+            "title": "YouTubers Put Anal Bead Chess Conspiracy To The Test",
+            "description": "The chess world was rocked by a cheating scandal last September after former world champion Magnus Carlsen insinuated that an opponent, grandmaster Hans Niemann, had used foul play to beat him at the Sinquefield Cup in St. Louis, Missouri. Now, some British Y…",
+            "url": "https://kotaku.com/youtube-chess-anal-beads-magnus-carlsen-hans-niemann-1851020457",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/68c788d41c0b2c8c5aa53cfd4e63bc30.jpg",
+            "publishedAt": "2023-11-14T16:00:00Z",
+            "content": "The chess world was rocked by a cheating scandal last September after former world champion Magnus Carlsen insinuated that an opponent, grandmaster Hans Niemann, had used foul play to beat him at the… [+2658 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Passant Rabie",
+            "title": "Startup Wants to Land Space Drugs Factory in Australia After US Denies Reentry",
+            "description": "After struggling to land its first in-space manufacturing capsule in the U.S., Varda Space is now looking down under for future batches of space drugs to reenter through Earth’s atmosphere.Read more...",
+            "url": "https://gizmodo.com/startup-wants-to-land-space-drugs-factory-in-australia-1850949756",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/34368a3cb6a6cf94ef623762942f712c.jpg",
+            "publishedAt": "2023-10-23T16:05:00Z",
+            "content": "After struggling to land its first in-space manufacturing capsule in the U.S., Varda Space is now looking down under for future batches of space drugs to reenter through Earths atmosphere.\r\nCaliforni… [+2735 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "tips@androidcentral.com (Nickolas Diaz)",
+            "title": "YouTube Music begins a generative AI test for creating playlist artwork",
+            "description": "YouTube launched a generative AI test for U.S.-based users involving art for their playlists.",
+            "url": "https://www.androidcentral.com/apps-software/youtube-music-generative-ai-art-experiment",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/dTTi8pJ9VZA4EpcgSTVSHg-1200-80.jpg",
+            "publishedAt": "2023-10-25T11:47:10Z",
+            "content": "<ul><li>YouTube Music has started a new generative AI test for U.S.-based users involving the creation of artwork for their playlists.</li><li>Tapping a playlist's cover will bring up a \"theme\" menu … [+2653 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "tips@androidcentral.com (Nickolas Diaz)",
+            "title": "YouTube Premium members can test new conversational AI, but there are limited spots",
+            "description": "YouTube is rolling out several new features for Premium members while opening up testing for new AI tools.",
+            "url": "https://www.androidcentral.com/apps-software/youtube-highlights-premium-features-coversational-ai",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/6pvjASLAuGSMQzSoFxqBqG-1200-80.jpg",
+            "publishedAt": "2023-11-15T18:14:57Z",
+            "content": "<ul><li>YouTube is opening testing in \"early access\" for Premium members to experiment with its conversational AI.</li><li>The AI brings two tests: AI-powered summaries for comments and a new \"Ask\" o… [+2930 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "techkritiko@gmail.com (Jay Bonggolto)",
+            "title": "Disney Plus and Hulu are merging their apps for a test run next month",
+            "description": "Disney CEO Bob Iger revealed that a beta test of the combined Disney Plus and Hulu app will kick off in December, with a full rollout planned for spring 2024.",
+            "url": "https://www.androidcentral.com/streaming-tv/disney-plus-and-hulu-merger-app-rolling-out",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/XRSDcCBmjPYZU23zJH2oqP-1200-80.jpg",
+            "publishedAt": "2023-11-12T05:54:44Z",
+            "content": "<ul><li>The combined Disney Plus and Hulu app will initially be available to U.S. customers.</li><li>The beta launch in December allows users, particularly parents, to set up profiles and parental co… [+1999 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Jesse Orrall",
+            "title": "40 Miles an Hour in an Electric Speedboat: Test-Driving the Arc One video - CNET",
+            "description": "We got our hands on the sold-out Arc One electric boat, which boasts a top speed of 40 mph, room for 12 and a price tag of $300,000.",
+            "url": "https://www.cnet.com/roadshow/videos/40-mph-in-an-electric-speedboat-test-driving-the-arc-one/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/f3d4ecc4f16a2be3df4d30f30701051a324d7e9d/hub/2023/11/11/3f846c5d-1c77-4d71-a35b-af8579e83881/arc-one-cms-thumb.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2023-11-12T13:00:03Z",
+            "content": ""
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Mary-Elisabeth Combs",
+            "title": "Here's How to Order Your Free COVID-19 Test Kits In Minutes - CNET",
+            "description": "We show you how you can get your hands on free COVID tests, vaccines and treatments as winter approaches.",
+            "url": "https://www.cnet.com/health/heres-how-to-order-your-free-covid-19-test-kits-in-minutes/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/56afb6ba8ad5c95217cb4e06becdaeefdaf1092a/hub/2022/01/14/5d373102-d899-4cdd-9099-34cbd7d5b04a/20220114-covid-19-antigen-rapid-test-kit-01.jpg?auto=webp&fit=crop&height=675&width=1200",
+            "publishedAt": "2023-10-28T09:00:08Z",
+            "content": "Winter is right around the corner, and it's no surprise that COVID-19 cases are expected to rise as the colder weather sets in. If you want to be armed with tests before a potential winter surge sets… [+7692 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Cheyenne MacDonald",
+            "title": "Google is testing community-sourced notes for search results",
+            "description": "Google is experimenting with a feature that would allow people to add their own notes to search results for anyone to see. In theory, this would make results more helpful, providing a bit of human perspective — like feedback on recipe links or tips relating t…",
+            "url": "https://www.engadget.com/google-is-testing-community-sourced-notes-for-search-results-173022736.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Tu4jo7TmY4LNbJ4_0TnN1g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/e73452b0-83d6-11ee-8dd9-05032f22c6ae",
+            "publishedAt": "2023-11-15T17:30:22Z",
+            "content": "Google is experimenting with a feature that would allow people to add their own notes to search results for anyone to see. In theory, this would make results more helpful, providing a bit of human pe… [+1349 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Sarah Fielding",
+            "title": "Endlesss Clubs is like a Discord server for making music",
+            "description": "Producing music with friends and colleagues from afar can be tricky but, hopefully, it's about to get a bit smoother. Endlesss, a remote music creation platform, is rolling out a feature called Clubs that could make it easier to share and blend ideas. The new…",
+            "url": "https://www.engadget.com/endlesss-clubs-is-like-a-discord-server-for-making-music-112509781.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-11/dbc4fcf0-8916-11ee-b37e-6496b9906ae0",
+            "publishedAt": "2023-11-22T11:25:09Z",
+            "content": "Producing music with friends and colleagues from afar can be tricky but, hopefully, it's about to get a bit smoother. Endlesss, a remote music creation platform, is rolling out a feature called Clubs… [+1510 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Jeremy White",
+            "title": "The Best Luxury Gifts for 2023",
+            "description": "Nine ultra-desirable objects selected purely to appeal to those tricky persons who (almost) already have everything.",
+            "url": "https://www.wired.com/gallery/the-best-luxury-gifts-2023/",
+            "urlToImage": "https://media.wired.com/photos/6557dbb73c92a0d005c79c80/191:100/w_2580,c_limit/Gear-Ferrari_trackpack_F3Q_with-cover_lights-on.jpg",
+            "publishedAt": "2023-11-19T13:30:00Z",
+            "content": "They say its better to give than to receivebut whoever came up with that particular idiom had clearly never looked at one of WIREDs elevated gift lists. Bank-account-incinerating prices aside, wed be… [+922 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Siôn Geschwindt",
+            "title": "Dutch solar EV completes 1,000km test drive through the desert",
+            "description": "An off-road solar car built by a team of Dutch students has successfully traversed 1,000km of rugged desert terrain in North Africa — opening up possibilities for the broader rollout of solar-powered EVs in areas with limited charging infrastructure. The Eind…",
+            "url": "https://thenextweb.com/news/dutch-solar-car-test-drive-morocco-eindhoven",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F10%2Fsolar-car-eindhoven-morocco.jpg&signature=cb177459ec1b1364501c326f593cd559",
+            "publishedAt": "2023-10-27T11:02:17Z",
+            "content": "An off-road solar car built by a team of Dutch students has successfully traversed 1,000km of rugged desert terrain in North Africa opening up possibilities for the broader rollout of solar-powered E… [+3146 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mariella Moon",
+            "title": "Revel is shutting down its shared electric moped service",
+            "description": "Revel is leaving behind its roots and ending its (at times controversial) electric moped service New York City and San Francisco. Company CEO and co-founder Frank Reig has sent a company-wide email, viewed by TechCrunch, telling staff that \"the service has be…",
+            "url": "https://www.engadget.com/revel-is-shutting-down-its-shared-electric-moped-service-113046594.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/L52ZFOIJv97OLl8rjENH1w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/485a0370-7afc-11ee-b5f6-afb3423667dc",
+            "publishedAt": "2023-11-04T11:30:46Z",
+            "content": "Revel is leaving behind its roots and ending its (at times controversial) electric moped service New York City and San Francisco. Company CEO and co-founder Frank Reig has sent a company-wide email, … [+1490 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mariella Moon",
+            "title": "The first Grand Theft Auto VI trailer will arrive in early December",
+            "description": "We may get official details about Grand Theft Auto VI very, very soon. Following a Bloomberg that said Rockstar Games would announce the next entry in the GTA franchise as early as this week, Rockstar confirmed it would release a trailer for the forthcoming g…",
+            "url": "https://www.engadget.com/the-first-grand-theft-auto-vi-trailer-will-arrive-in-early-december-045219564.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/TYH6zvOkBVpGgKc.AqIJig--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/2dff92c0-7de9-11ee-af97-93d16a78333b",
+            "publishedAt": "2023-11-08T04:52:19Z",
+            "content": "We may get official details about Grand Theft Auto VI very, very soon. Following a Bloomberg report that said Rockstar Games would announce the next entry in the GTA franchise as early as this week, … [+1591 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Devindra Hardawar",
+            "title": "Microsoft's Windows 11 2023 update rolls out, bringing Copilot AI to more users",
+            "description": "Today Microsoft has begun rolling out its Windows 11 2023 update (also know as version 23H2), which adds some minor features on top of Copilot and its other AI-powered apps announced in September. Now, you may be asking yourself, \"Didn't Microsoft just releas…",
+            "url": "https://www.engadget.com/microsofts-windows-11-2023-update-rolls-out-bringing-copilot-ai-to-more-users-170049845.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-10/50b31d80-77f6-11ee-aff5-87e9675bd377",
+            "publishedAt": "2023-10-31T17:00:49Z",
+            "content": "Today Microsoft has begun rolling out its Windows 11 2023 update (also know as version 23H2), which adds some minor features on top of Copilot and its other AI-powered apps announced in September. No… [+1356 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Malak Saleh",
+            "title": "AI is starting to outperform meteorologists",
+            "description": "A machine learning-based weather prediction program developed by DeepMind researchers called “GraphCast\r\n” can predict weather variables over the span of 10 days, in under one minute. In a report\r\n, scientists highlight that GraphCast has outperformed traditi…",
+            "url": "https://www.engadget.com/ai-is-starting-to-outperform-meteorologists-173616631.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/VpavCx9lzoRgde6oDi4Gpw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/eaf5eea0-8312-11ee-be6f-e8f1233db9d2",
+            "publishedAt": "2023-11-14T17:36:16Z",
+            "content": "A machine learning-based weather prediction program developed by DeepMind researchers called GraphCast can predict weather variables over the span of 10 days, in under one minute. In a report, scient… [+1922 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Maya Posch",
+            "title": "Putting 3D Printed Screw Threads To The Test",
+            "description": "One of the challenges with 3D printing is seeing how far designs can be pushed before they break. This includes aspects like flexible hinges and structural components, but also smaller details such…",
+            "url": "https://hackaday.com/2023/11/10/putting-3d-printed-screw-threads-to-the-test/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2023/11/3d_printed_screw_threads.jpg",
+            "publishedAt": "2023-11-11T06:00:31Z",
+            "content": "One of the challenges with 3D printing is seeing how far designs can be pushed before they break. This includes aspects like flexible hinges and structural components, but also smaller details such a… [+1744 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Dan Maloney",
+            "title": "Homebrew TEM Cell Lets You EMC Test Your Own Devices",
+            "description": "Submitting a new device for electromagnetic compatibility (EMC) testing seems a little like showing up for the final exam after skipping all the lectures. You might get lucky and pass, but it reall…",
+            "url": "https://hackaday.com/2023/11/02/homebrew-tem-cell-lets-you-emc-test-your-own-devices/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2023/11/side_view.jpg",
+            "publishedAt": "2023-11-02T11:00:28Z",
+            "content": "Submitting a new device for electromagnetic compatibility (EMC) testing seems a little like showing up for the final exam after skipping all the lectures. You might get lucky and pass, but it really … [+1970 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Man crushed to death by robot in South Korea",
+            "description": "The robotic arm reportedly failed to distinguish between the man and the boxes it was handling.",
+            "url": "https://www.bbc.co.uk/news/world-asia-67354709",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E4CE/production/_131647585_gettyimages-1288127310.jpg",
+            "publishedAt": "2023-11-08T13:31:47Z",
+            "content": "A man has been crushed to death by a robot in South Korea after it failed to differentiate him from the boxes of food it was handling, reports say.\r\nThe incident occurred when the man, a robotics com… [+1218 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "First-ever electric air taxi flight takes off in NYC",
+            "description": "The fast and quiet ride could be available by 2025, according to Joby Aviation, the company who developed the aircrafts.",
+            "url": "https://www.bbc.co.uk/news/av/world-us-canada-67421870",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7438/production/_131725792_p0gsr3z6.jpg",
+            "publishedAt": "2023-11-14T18:51:09Z",
+            "content": "Joby Aviation unveiled how the future of all-electric aviation could look like during a test flight in Manhattan.\r\nThe fast and quiet ride service could be available as soon as 2025, according to pla… [+120 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Matthew Fox",
+            "title": "The S&P 500 will test record highs in 2024 as rising profits fuel bull market",
+            "description": "\"You know what tends to happen when profits are at a record? Stocks tend to follow, something we expect to see in 2024,\" Ryan Detrick said.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-2024-sp500-test-record-highs-profits-rise-2023-11",
+            "urlToImage": "https://i.insider.com/61cc6d239a93c000193a9585?width=1200&format=jpeg",
+            "publishedAt": "2023-11-10T15:37:05Z",
+            "content": "Spencer Platt/Getty Images\r\n<ul><li>The stock market is poised to test record highs in 2024 as the second year of the bull market gets underway.</li><li>Carson Group said it expects the S&P 500 to de… [+2286 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Chris Panella",
+            "title": "Video shows the moment a new Russian submarine test-fired an intercontinental-range 'Bulava' missile",
+            "description": "Russia said their new strategic nuclear submarine successfully launched a ballistic missile, the final test needed before the boat can enter service.",
+            "url": "https://www.businessinsider.com/video-new-russian-submarine-test-fires-bulava-missile-2023-11",
+            "urlToImage": "https://i.insider.com/65494f3b3cc84b4dfafd4b1c?width=1200&format=jpeg",
+            "publishedAt": "2023-11-06T21:55:12Z",
+            "content": "The nuclear-powered submarine Imperator Alexander III test-launching the Bulava ballistic missile.Russian Ministry of Defense\r\n<ul>\n<li>Video footage shows the moment a new Russian submarine test-fir… [+3357 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Passant Rabie",
+            "title": "Seeing Double: Lucy’s First Target Asteroid Has a Tiny Moon",
+            "description": "As NASA’s Lucy spacecraft zoomed past its first asteroid on Wednesday, its mission scientists made a surprising discovery of a bonus space rock.Read more...",
+            "url": "https://gizmodo.com/nasa-lucy-dinkinesh-asteroid-binary-jupiter-trojans-1850989545",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d9205da30ee32a4ce35119bc928a414f.jpg",
+            "publishedAt": "2023-11-03T15:30:00Z",
+            "content": "As NASAs Lucy spacecraft zoomed past its first asteroid on Wednesday, its mission scientists made a surprising discovery of a bonus space rock.\r\nThe first images sent over by the Lucy mission of its … [+2778 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Nancy Luna",
+            "title": "I put Taco Bell's wacky menu experiments to the test. Some meals should return to the lab, while crazy-good items like breakfast tater tots should go national.",
+            "description": "Business Insider reviews Taco Bell's new test menu items to see which one should stick around.",
+            "url": "https://www.businessinsider.com/these-taco-bell-test-kitchen-creations-should-go-national",
+            "urlToImage": "https://i.insider.com/6552a4ee36d588dc55cfa673?width=1200&format=jpeg",
+            "publishedAt": "2023-11-20T10:07:01Z",
+            "content": "Nancy Luna, Business Insider food correspondent, tries Taco Bell's test items.Nancy Luna/Business Insider\r\n<ul><li>Taco Bell has tested more than a dozen items across the US this year. </li><li>I've … [+8097 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "Jake Peterson",
+            "title": "You Can Try These New YouTube AI Features Right Now",
+            "description": "Google is rolling out AI features to all of its products, one after another. Bard is popping up in apps like Docs, Sheets, and Gmail, while artificial intelligence arrived on Google Maps a couple of weeks ago. Now, the AI revolution is coming to YouTube, but …",
+            "url": "https://lifehacker.com/you-can-try-these-new-youtube-ai-features-right-now-1851000046",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/13b393abd014aaeda205fd3526eef9c2.jpg",
+            "publishedAt": "2023-11-07T20:30:00Z",
+            "content": "Google is rolling out AI features to all of its products, one after another. Bard is popping up in apps like Docs, Sheets, and Gmail, while artificial intelligence arrived on Google Maps a couple of … [+1929 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Andrew Tarantola",
+            "title": "NVIDIA's Eos supercomputer just broke its own AI training benchmark record",
+            "description": "Depending on the hardware you're using, training a large language model of any significant size can take weeks, months, even years to complete. That's no way to do business — nobody has the electricity and time to be waiting that long. On Wednesday, NVIDIA un…",
+            "url": "https://www.engadget.com/nvidias-eos-supercomputer-just-broke-its-own-ai-training-benchmark-record-170042546.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/UAWmyqxFcUVSo9T7sNyt1A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Mzg-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/824d6160-7da1-11ee-aebf-0bbe0425da2a",
+            "publishedAt": "2023-11-08T17:00:42Z",
+            "content": "Depending on the hardware you're using, training a large language model of any significant size can take weeks, months, even years to complete. That's no way to do business nobody has the electricity… [+5498 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Instagram tests a verified-only feed",
+            "description": "Instagram is testing a toggle that lets you only see posts from people who subscribe to Meta Verified, according to Instagram head Adam Mosseri.",
+            "url": "https://www.theverge.com/2023/10/23/23929100/instagram-meta-verified-feed-test",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/I0QylCJuAEqWEKxmfO8VTB1qSbM=/0x0:1290x1290/1200x628/filters:focal(645x645:646x646)/cdn.vox-cdn.com/uploads/chorus_asset/file/25025364/IMG_20231023_141656_603.jpg",
+            "publishedAt": "2023-10-23T18:46:06Z",
+            "content": "Instagram tests a verified-only feed\r\nInstagram tests a verified-only feed\r\n / Meta is testing a feed that only shows posts from people who pay for Meta Verified.\r\nByJay Peters, a news editor who wri… [+1668 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Matt Laslo",
+            "title": "Joe Biden’s Big AI Plan Sounds Scary—but Lacks Bite",
+            "description": "Joe Biden’s new executive order is billed as the biggest governmental AI plan ever. Unless he can convince a dysfunctional US Congress and overseas rivals to play along, its effects will be limited.",
+            "url": "https://www.wired.com/story/joe-bidens-big-ai-plan-sounds-scary-lacks-bite/",
+            "urlToImage": "https://media.wired.com/photos/65406146dacb7be44fdb6673/191:100/w_1280,c_limit/Biden-White-House-Event-AI-Business-1754109419.jpg",
+            "publishedAt": "2023-10-31T17:42:44Z",
+            "content": "We intend that the actions we are taking domestically will serve as a model for international action, understanding that AI developed in one nation can impact the lives and livelihoods of billions of… [+2442 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Simon Hill",
+            "title": "8 Best Deals on Arlo Security Cameras and Video Doorbells",
+            "description": "Need a security camera to safeguard your property? Arlo makes some of our favorites, and they're on sale right now.",
+            "url": "https://www.wired.com/story/arlo-deals-security-cameras-video-doorbells-october-2023/",
+            "urlToImage": "https://media.wired.com/photos/6537cfc2bbc5f3bf842c27ab/191:100/w_1280,c_limit/Arlo-Video-Doorbell-2K-Gear.jpg",
+            "publishedAt": "2023-10-24T14:20:52Z",
+            "content": "A few well-placed security cameras can help you keep an eye on your property wherever you are. Arlo, maker of some of our favorite home security gadgets, has jumped ahead of Black Friday with its own… [+4516 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Al Williams",
+            "title": "How to Talk to Your Scope",
+            "description": "It used to be only high-end test equipment that had some sort of remote control port. These days, though, they are quite common. Historically, test gear used IEEE-488 (also known as GPIB or, from t…",
+            "url": "https://hackaday.com/2023/11/21/how-to-talk-to-your-scope/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2023/11/Sine_wave_10_kHz_displayed_on_analog_oscilloscope_featured.png",
+            "publishedAt": "2023-11-21T18:00:14Z",
+            "content": "It used to be only high-end test equipment that had some sort of remote control port. These days, though, they are quite common. Historically, test gear used IEEE-488 (also known as GPIB or, from the… [+8918 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Emily Mullin",
+            "title": "A Single Infusion of a Gene-Editing Treatment Lowered High Cholesterol",
+            "description": "It’s still early days for a novel form of gene therapy called base editing, but this small study in people with extremely high cholesterol shows striking results.",
+            "url": "https://www.wired.com/story/a-single-infusion-of-a-gene-editing-treatment-lowered-high-cholesterol/",
+            "urlToImage": "https://media.wired.com/photos/6552b2a81dc643752b2a0165/191:100/w_1280,c_limit/arteries-science-GettyImages-1404559512.jpg",
+            "publishedAt": "2023-11-14T13:00:00Z",
+            "content": "In a small initial test in people, researchers have shown that a single infusion of a novel gene-editing treatment can reduce cholesterol, the fatty substance that clogs and hardens arteries over tim… [+2197 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Mallory Yu",
+            "title": "Can we grow veggies on Mars? Fly larvae and synthetic soil may hold the answer",
+            "description": "A Texas undergrad is investigating how to grow vegetables on Mars — and has cultivated test samples of English peas in simulated Martian soil, with fertilizer from fly larvae.",
+            "url": "https://www.npr.org/2023/11/22/1213643383/can-we-grow-veggies-on-mars-fly-larvae-and-synthetic-soil-may-hold-the-answer",
+            "urlToImage": "https://media.npr.org/assets/img/2023/11/16/img_7089_wide-2544230eb6d7800ccf9571607efd7dc4f919f558-s1400-c100.jpg",
+            "publishedAt": "2023-11-22T10:00:55Z",
+            "content": "English peas grow in simulated Martian dirt.\r\nEmmanuel Mendoza\r\nHumans have stepped foot on the moon, but we haven't made it to Mars. Yet.\r\nAmid the myriad barriers, a key issue to sending a crew to … [+4536 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Suzanne Nuyen",
+            "title": "Up First briefing: holiday travel records; migrant crisis in California desert",
+            "description": "Record-breaking Thanksgiving travel will test an already strained aviation system. A humanitarian crisis is brewing near the U.S.-Mexico border.",
+            "url": "https://www.npr.org/2023/11/21/1214357687/up-first-briefing-holiday-travel-records-migrant-crisis-in-california-desert",
+            "urlToImage": "https://media.npr.org/assets/img/2023/11/21/gettyimages-1245034839_wide-f0462225daa0b10c173c4728d4677ca03962f311-s1400-c100.jpg",
+            "publishedAt": "2023-11-21T13:00:19Z",
+            "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top ne… [+4973 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Thibault Spirlet",
+            "title": "Putin fake death rumors are being spread by the Kremlin to gauge Russian reactions, Ukraine intelligence says",
+            "description": "The Kremlin is using fake rumors about Putin's death spreading on social media to test how Russians respond to the news, according to Ukraine.",
+            "url": "https://www.businessinsider.com/kremlin-using-putin-death-rumors-to-test-domestic-reactions-ukraine-2023-11",
+            "urlToImage": "https://i.insider.com/654383a436d588dc55c8f9f0?width=1200&format=jpeg",
+            "publishedAt": "2023-11-02T13:14:09Z",
+            "content": "Russian President Vladimir Putin visiting the Korolev Rocket and Space Corporation Energia, October 26, 2023, in Korolev, Russia.Contributor#8523328\r\n<ul><li>Rumors of Putin's death circulating on so… [+2297 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Chris Panella",
+            "title": "Putin's new nuclear-powered cruise missile, one of his so-called 'super weapons,' is unnecessary but not totally useless, nuclear weapons expert says",
+            "description": "Even if Putin's claim of a successful test of the Burevestnik is true, it doesn't really change much. It's more for show, an expert told Insider.",
+            "url": "https://www.businessinsider.com/putin-nuclear-powered-cruise-missile-unnecessary-not-totally-useless-expert-2023-10",
+            "urlToImage": "https://i.insider.com/6532e43996908fd7cdb4687d?width=1200&format=jpeg",
+            "publishedAt": "2023-10-22T14:15:01Z",
+            "content": "A Russian Topol-M ICBM drives across Red Square in a Victory Day Parade in Moscow on May 9, 2008. An expert told Insider, weapons like these get the job done, making the Burevestnik nuclear-powered c… [+8034 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Stephen Clark",
+            "title": "Starship brought the thunder as it climbed into space for the first time",
+            "description": "Starship reached a speed of 15,000 mph, then self-destructed over the Gulf of Mexico.",
+            "url": "https://arstechnica.com/space/2023/11/spacex-can-celebrate-three-big-wins-after-second-starship-test-flight/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/starship-ift2-1-760x380.jpeg",
+            "publishedAt": "2023-11-18T21:35:07Z",
+            "content": "Enlarge/ SpaceX's Starship rocket took off from South Texas at 7:03 am CST (13:03 UTC) Saturday.\r\n79 with \r\nBOCA CHICA BEACH, TexasSpaceX's Starship mega-rocket reached space for the first time Satur… [+14110 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Jake Epstein",
+            "title": "I tested the game-changing F-35 stealth fighter, an incredible jet that demands more than just great flying skills from its pilots",
+            "description": "A test pilot who helped engineers develop the F-35 shares what it's like inside the cockpit of a top fifth-generation fighter.",
+            "url": "https://www.businessinsider.com/test-pilot-f-35-demands-more-than-great-flying-skills-2023-11",
+            "urlToImage": "https://i.insider.com/65452c8bb788914e554fee80?width=1200&format=jpeg",
+            "publishedAt": "2023-11-04T11:00:01Z",
+            "content": "Billie Flynn standing in front of a fighter jet.Courtesy of Billie Flynn.\r\n<ul>\n<li>Billie Flynn spent years as a pilot in the testing program for the F-35 stealth fighter jet.</li>\n<li>He said the a… [+7034 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Grace Dean",
+            "title": "'Why is it packaged like a pregnancy test?' Some McDonald's workers really hate the new McFlurry spoon",
+            "description": "McDonald's US is replacing its single-use McFlurry spoons with reusable spindles, and some workers are furious about it.",
+            "url": "https://www.businessinsider.com/some-mcdonalds-workers-really-hate-the-new-mcflurry-spoon-2023-10",
+            "urlToImage": "https://i.insider.com/653bdcee0487ff031cb07c8b?width=1200&format=jpeg",
+            "publishedAt": "2023-10-27T16:03:53Z",
+            "content": "McDonald's is getting rid of its hollow plastic McFlurry spoons in the US.Marielle Descalsota/Insider\r\n<ul><li>McDonald's US is replacing its single-use McFlurry spoons with reusable spindles and sma… [+3558 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Medea Giordano",
+            "title": "7 Theragun Black Friday Deals (2023): Percussive Massage Devices",
+            "description": "Whether you have sore muscles, tired eyes, or dull skin, there's a Therabody massager on sale that could help.",
+            "url": "https://www.wired.com/story/therabody-theragun-black-friday-deals-2023/",
+            "urlToImage": "https://media.wired.com/photos/655695e6d28860eac8fe8831/191:100/w_1280,c_limit/Theragun-Elite-Gear.jpg",
+            "publishedAt": "2023-11-17T14:00:00Z",
+            "content": "Theraguns are some of the most popular massage guns, but they're also the most expensive. If you've been coveting one, most of Therabody's catalog is discounted right now as a part of its early Black… [+4384 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Sarah Jackson",
+            "title": "See questions from Bridgewater's 'Principles' test, which probed employees on arrogance and whether their colleagues would steal",
+            "description": "Staff at Ray Dalio's Bridgewater were asked how many of their peers would need to be \"sorted\" for the hedge fund's continued success, a new book says.",
+            "url": "https://www.businessinsider.com/see-questions-bridgewater-test-ray-dalio-principles-the-fund-book-2023-11",
+            "urlToImage": "https://i.insider.com/64664f5cfb9a9d0018c9142a?width=1200&format=jpeg",
+            "publishedAt": "2023-11-07T18:26:49Z",
+            "content": "Ray Dalio's hedge fund, Bridgewater, is famously strict when it comes to employees' observance of \"The Principles.\"Pedro Fiúza/Getty Images\r\n<ul><li>Ray Dalio's Bridgewater is notorious for its stric… [+2813 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Passant Rabie",
+            "title": "NASA Tests 3D-Printed Rocket Nozzle for Future Missions to Moon, Mars",
+            "description": "In order to be able to carry heavier payloads through deep space, NASA designed a lightweight rocket engine nozzle made of aluminum that can still withstand the heat of launches.Read more...",
+            "url": "https://gizmodo.com/nasa-test-3d-printed-rocket-nozzle-deep-space-missions-1850953328",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/47c285ac4cb19588bfcd779d046a0bd5.jpg",
+            "publishedAt": "2023-10-24T15:50:00Z",
+            "content": "In order to be able to carry heavier payloads through deep space, NASA designed a lightweight rocket engine nozzle made of aluminum that can still withstand the heat of launches.\r\nNASA recently teste… [+3023 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Umar Shakir",
+            "title": "Einride’s drone truck has its first full-time job moving GE appliances around",
+            "description": "Einride’s driverless and cab-free autonomous truck is taking delivery trips up to seven times per day for GE Appliances in Selmer, Tennessee.",
+            "url": "https://www.theverge.com/2023/11/13/23959030/einride-driverless-trucks-ge-appliances-autonomous-delivery",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/FnaiQ1Obv-uehdTyk_LgyF7289Q=/0x0:3999x2666/1200x628/filters:focal(2000x1333:2001x1334)/cdn.vox-cdn.com/uploads/chorus_asset/file/25081136/Einride_Selmer_9.jpg_2.jpeg",
+            "publishedAt": "2023-11-13T19:55:18Z",
+            "content": "Einrides drone truck has its first full-time job moving GE appliances around\r\nEinrides drone truck has its first full-time job moving GE appliances around\r\n / The driverless trucks take equipment on … [+1893 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "Ford is testing drone deliveries at the derelict train station in Detroit it’s rehabbing",
+            "description": "Ford is launching a new airspace for drone deliveries around the old Michigan Central train station it’s rehabbing into an innovation hub.",
+            "url": "https://www.theverge.com/2023/10/26/23931854/ford-michigan-central-drone-delivery-airspace-train-station",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/IfHKpU7dKhavz1waclI6yvxr7mw=/0x0:8640x5760/1200x628/filters:focal(4320x2880:4321x2881)/cdn.vox-cdn.com/uploads/chorus_asset/file/25032247/credit_Nadir_Ali_for_Michigan_Central_drone_community_demo_day_4.jpg",
+            "publishedAt": "2023-10-26T10:00:00Z",
+            "content": "Ford is testing drone deliveries at the derelict train station in Detroit its rehabbing\r\nFord is testing drone deliveries at the derelict train station in Detroit its rehabbing\r\n / Michigan Central, … [+5131 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kyle Barr",
+            "title": "Google's Chrome Browser Could Soon Help You Hide Your IP Address",
+            "description": "If you’re on the internet browsing with the recently redesigned Google Chrome, you’re probably not the most privacy-minded person out there. Still, the world’s most popular browser is gearing up to allow users to hide their IP address from websites, even with…",
+            "url": "https://gizmodo.com/google-chrome-browser-help-you-hide-your-ip-address-1850950257",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/603e28d22c90627b22b864ae85d7add7.jpg",
+            "publishedAt": "2023-10-23T17:55:00Z",
+            "content": "If youre on the internet browsing with the recently redesigned Google Chrome, youre probably not the most privacy-minded person out there. Still, the worlds most popular browser is gearing up to allo… [+2837 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Passant Rabie",
+            "title": "ISS Astronauts Are Testing a New Surface Coating to Fight Space Germs",
+            "description": "For astronauts living aboard the International Space Station (ISS), space germs are bad news. The confined environment, plus a weakened immunity system, and more aggressive bacteria, means that catching a cold in space is way worse than on Earth. In order to …",
+            "url": "https://gizmodo.com/iss-astronauts-antimicrobial-surface-coating-bacteria-1851025584",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/845a93d17aa09d5374cb5527aee1d9f8.jpg",
+            "publishedAt": "2023-11-15T21:55:00Z",
+            "content": "For astronauts living aboard the International Space Station (ISS), space germs are bad news. The confined environment, plus a weakened immunity system, and more aggressive bacteria, means that catch… [+2996 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "Amanda Blum",
+            "title": "Three Things I Do to Protect My Plants Before a Freeze",
+            "description": "Much of the U.S. is entering freeze season—and I’m not talking a light morning frost, but a full-on freeze, which is a transformative event for your garden. While ideally we’d all be planting natives that are well-accustumed to our local climate, it’s not alw…",
+            "url": "https://lifehacker.com/three-things-i-do-to-protect-my-plants-before-a-freeze-1850977175",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/15ac11f9e8f2b686c4bfe4b9e2f202a3.jpg",
+            "publishedAt": "2023-10-31T18:30:00Z",
+            "content": "Much of the U.S. is entering freeze seasonand Im not talking a light morning frost, but a full-on freeze, which is a transformative event for your garden. While ideally wed all be planting natives th… [+3111 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "Tinder now lets mom pick your next date",
+            "description": "Tinder’s new Matchmaker feature lets users invite their loved ones, regardless of whether they have a Tinder profile or not, to view and recommend potential matches.",
+            "url": "https://www.theverge.com/2023/10/23/23928363/tinder-matchmaker-dating-app-feature-recommendations",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/U3f5sLOpeSjKqF_lR3lE2jQSxO8=/0x0:1478x984/1200x628/filters:focal(739x492:740x493)/cdn.vox-cdn.com/uploads/chorus_asset/file/25024189/Matchmaker_Both_POVs.png",
+            "publishedAt": "2023-10-23T10:00:00Z",
+            "content": "Tinder now lets mom pick your next date\r\nTinder now lets mom pick your next date\r\n / Matchmaker allows Tinder users to invite up to 15 loved ones to play cupid and recommend potential partners direct… [+2095 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "tips@androidcentral.com (Nickolas Diaz)",
+            "title": "YouTube begins testing new 'Ask' and 'Topics' generative AI features",
+            "description": "YouTube has started rolling out new generative AI tests for a small number of individuals.",
+            "url": "https://www.androidcentral.com/apps-software/youtube-tests-more-generative-ai-feature-ask-topics",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/53Hee9M7ttmhbNwJuiddgP-1200-80.jpg",
+            "publishedAt": "2023-11-06T19:35:31Z",
+            "content": "<ul><li>YouTube is beginning to test two new generative AI features for a small number of users, beginning with its new \"Ask\" feature.</li><li>Users can either select pre-made prompts or write their … [+3509 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "Becca Lewis",
+            "title": "These DIY Room Dividers Can Help Break Up Your Open Floor Plan",
+            "description": "If your open floor plan is a little too open, or if you want to carve out some defined space for focused use, room dividers can come in handy. Since most types of room dividers are much simpler and less expensive than a renovation, they’re a good solution for…",
+            "url": "https://lifehacker.com/these-diy-room-dividers-can-help-break-up-your-open-flo-1850997451",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/68d7c9b0c3d1b7977ba8ca9e692f9ce2.jpg",
+            "publishedAt": "2023-11-07T13:30:00Z",
+            "content": "If your open floor plan is a little too open, or if you want to carve out some defined space for focused use, room dividers can come in handy. Since most types of room dividers are much simpler and l… [+3285 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Meredith Deliso",
+            "title": "SpaceX launches Starship rocket in explosive 2nd test flight",
+            "description": "SpaceX launched its Starship rocket Saturday morning, with the booster exploding and spacecraft apparently detonating during the second test flight.",
+            "url": "https://abcnews.go.com/Technology/spacex-starship-second-test-flight/story?id=105003773",
+            "urlToImage": "https://i.abcnewsfe.com/a/2fba6849-4d9f-4b3e-8109-2bb19f2d4077/spacex-ht-jt-231118_1700324325343_hpMain_16x9.jpg?w=992",
+            "publishedAt": "2023-11-18T19:27:27Z",
+            "content": "SpaceX launched its Starship rocket Saturday morning for the deep-space vehicle's second test flight, during which the booster exploded after separating and the spacecraft apparently detonated after … [+2518 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Allison Aubrey",
+            "title": "Can little actions bring big joy? Researchers say 'micro-acts' can boost well-being",
+            "description": "A new citizen-scientist research project aims to test whether daily moments of awe, kindness and gratitude can make a real impact. Early results are promising. And it's not too late to join the study.",
+            "url": "https://www.npr.org/sections/health-shots/2023/11/14/1212908276/can-little-actions-bring-big-joy-researchers-say-micro-acts-can-boost-well-being",
+            "urlToImage": "https://media.npr.org/assets/img/2023/11/14/gettyimages-186678901_wide-9f889a3ec56d936522a789ad60b0e603369d102b-s1400-c100.jpg",
+            "publishedAt": "2023-11-14T17:58:07Z",
+            "content": "It's 8 a.m., and your in-box is filling up. You spot an email about a colleague's promotion. Do you scroll past or take a moment to give props? Or, you're in line at the coffee shop, where it's easy … [+7938 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Deepa Shivaram",
+            "title": "Biden plans to step up government oversight of AI with new 'pressure tests'",
+            "description": "The White House will require AI companies to test new systems and submit the results to the federal government. The goal is to mitigate some risks as the technology rapidly develops.",
+            "url": "https://www.npr.org/2023/10/30/1209343819/ai-biden-oversight-executive-order",
+            "urlToImage": "https://media.npr.org/assets/img/2023/10/29/gettyimages-1561051857_wide-047161e5b7fe12bd428077b35c8dff6c71e66f7e-s1400-c100.jpg",
+            "publishedAt": "2023-10-30T09:00:45Z",
+            "content": "President Biden, seen here at a meeting with leaders of AI companies at a White House meeting on July 21, will announce a sweeping executive order aimed at stepping up oversight of the technology.\r\nA… [+4405 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Artofmanliness.com"
+            },
+            "author": "Brett & Kate McKay",
+            "title": "Sunday Firesides: The Sit-in-Silence Relationship Test",
+            "description": "Have you ever glanced across a restaurant and seen a couple sitting together in silence? They stared at each other, at their meal, or, most likely, at their phones. This is a sad sight, for staying engaged throughout a dinner date indicates the health of a lo…",
+            "url": "https://www.artofmanliness.com/people/relationships/sunday-firesides-the-sit-in-silence-relationship-test/",
+            "urlToImage": "https://content.artofmanliness.com/uploads/2023/11/sit-silent-thumb.jpg",
+            "publishedAt": "2023-11-05T03:10:56Z",
+            "content": "Have you ever glanced across a restaurant and seen a couple sitting together in silence? They stared at each other, at their meal, or, most likely, at their phones.\r\nThis is a sad sight, for staying … [+1630 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "EFF"
+            },
+            "author": null,
+            "title": "Test browser for web tracking – EFF",
+            "description": "See how trackers view your browser",
+            "url": "https://coveryourtracks.eff.org/",
+            "urlToImage": "https://coveryourtracks.eff.org/static/images/cyt-banner.png",
+            "publishedAt": "2023-11-05T20:31:06Z",
+            "content": "Test your browser to see how well you are protected from tracking and fingerprinting:\r\nTest Your Browser\r\nTest with a real tracking company ?How does tracking technology follow your trail around the … [+360 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cool Hunting"
+            },
+            "author": "Josh Rubin",
+            "title": "Test Drive: Mercedes-Maybach EQS SUV Night Series",
+            "description": "Electrified luxury expands beyond the driving experience The Mercedes-Maybach EQS SUV is a vehicle that epitomizes multiple segments of the Mercedes-Benz line-up. As a Maybach it has the most thoughtful, thorough and …",
+            "url": "http://coolhunting.com/design/test-drive-mercedes-maybach-eqs-suv-night-series/",
+            "urlToImage": "https://150102931.v2.pressablecdn.com/wp-content/uploads/2023/10/Mercedes-Maybach-EQS-SUV-Night-Series-Vancouver-Island-joshrubin-scaled.jpg",
+            "publishedAt": "2023-10-25T16:35:25Z",
+            "content": "Electrified luxury expands beyond the driving experience\n\n\nRead\nDesign\r\n\n\n\n\n\nTest Drive: Mercedes-Maybach EQS SUV Night Series\r\n\n\n\nElectrified luxury expands beyond the driving experience\r\n\n\r\n\n\n\n\nJos… [+5965 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Github.com"
+            },
+            "author": "kamranahmedse",
+            "title": "Trap and test AWS SES emails locally",
+            "description": "Trap and test AWS SES emails locally. Contribute to kamranahmedse/local-ses development by creating an account on GitHub.",
+            "url": "https://github.com/kamranahmedse/local-ses",
+            "urlToImage": "https://opengraph.githubassets.com/5d5c65320097a8372ad879245d3763df74530366705e1f319278451812ad4395/kamranahmedse/local-ses",
+            "publishedAt": "2023-11-20T01:38:46Z",
+            "content": "Trap and test AWS SES emails locally\r\nSetup\r\nYou can simply use docker to run the service locally\r\ndocker run -d --name local-ses -p 8282:8282 kamranahmed/local-ses:latest\r\nThis will start the servic… [+637 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Spacex.com"
+            },
+            "author": null,
+            "title": "11/17/23 starship test 2",
+            "description": "SpaceX designs, manufactures and launches advanced rockets and spacecraft.",
+            "url": "https://www.spacex.com/launches/mission/?missionId=starship-flight-2",
+            "urlToImage": "https://www.spacex.com/static/images/share.jpg",
+            "publishedAt": "2023-11-11T03:47:31Z",
+            "content": "On its flight to the International Space Station, Dragon executes a series of burns that position the vehicle\r\n progressively closer to the station before it performs final docking maneuvers, followe… [+347 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "VB Staff",
+            "title": "Building a webinar with ChatGPT",
+            "description": "Marketing is quickly being transformed by gen AI. One team put the tech to the test by using ChatGPT to create a highly successful webinar.",
+            "url": "https://venturebeat.com/ai/building-a-webinar-with-chatgpt/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2023/11/Screenshot-2023-11-15-at-9.07.45 AM.png?w=1200&strip=all",
+            "publishedAt": "2023-11-15T14:35:10Z",
+            "content": "Presented by Cvent\r\nMarketing is quickly being transformed by generative AI. One team put the technology to the test when they used ChatGPT to create a highly successful webinar. Heres a look at wher… [+6008 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slate Magazine"
+            },
+            "author": "Ray Hamel",
+            "title": "Think You’re Smarter Than a What Next Senior Producer? Find Out With This Week’s News Quiz.",
+            "description": "Test your knowledge of this week’s big stories.",
+            "url": "https://slate.com/news-and-politics/2023/11/slate-news-quiz-election-day-gop-debate-sexiest-man-alive.html",
+            "urlToImage": "https://compote.slate.com/images/b4b18bf2-e535-4b36-af15-d5a2d26bc8b1.jpeg?width=1560",
+            "publishedAt": "2023-11-10T10:55:00Z",
+            "content": "Welcome to Slates weekly news quiz. Its Friday, which means its time to test your knowledge of the weeks news events. Your host, Ray Hamel, has concocted questions on news topics ranging from politic… [+754 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Nikki Main",
+            "title": "Google Maps Now Uses AI to Find Where People Are Having Fun",
+            "description": "Google users can now make plans through a new Maps update that will generate events and activities by typing “things to do” into the search bar. Activities like art exhibitions or lists providing inspiration for things to do will now populate, giving photo-fi…",
+            "url": "https://gizmodo.com/google-maps-uses-ai-find-where-people-are-having-fun-1850966626",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e68464d7041033590d4a849504443359.png",
+            "publishedAt": "2023-10-27T16:45:00Z",
+            "content": "Google users can now make plans through a new Maps update that will generate events and activities by typing things to do into the search bar. Activities like art exhibitions or lists providing inspi… [+1666 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Scharon Harding",
+            "title": "Ultrawide monitors remind us there’s still much to learn about OLED burn-in",
+            "description": "Can playing 16:9 content on a 21:9 screen impact burn-in risk? Apparently.",
+            "url": "https://arstechnica.com/gadgets/2023/11/ultrawide-monitors-remind-us-theres-still-much-to-learn-about-oled-burn-in/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/01/IMG-1818-760x380.jpg",
+            "publishedAt": "2023-11-21T23:16:47Z",
+            "content": "0 with \r\nBurn-in is always possible with OLED displays, but for computer monitors, which tend to display static content (like icons and taskbars), the risk is even more concerning than with other OLE… [+5253 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Lawrence Bonk",
+            "title": "Webb telescope images show an unprecedented and 'chaotic' view of the center of our galaxy",
+            "description": "The James Webb telescope is back with some more gorgeous images\r\n. This time, the telescope eyed the center of the Milky Way galaxy,\r\n shining a light on the densest part of our surrounding environs in “unprecedented detail.” Specifically, the images are sour…",
+            "url": "https://www.engadget.com/webb-telescope-images-show-an-unprecedented-and-chaotic-view-of-the-center-of-our-galaxy-185912370.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/x0cz6QK4wsUDcxD5S2Czlg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MTQ-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/e8079960-87d5-11ee-afdc-add32477d735",
+            "publishedAt": "2023-11-20T18:59:12Z",
+            "content": "The James Webb telescope is back with some more gorgeous images\r\n. This time, the telescope eyed the center of the Milky Way galaxy,\r\n shining a light on the densest part of our surrounding environs … [+2543 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slate Magazine"
+            },
+            "author": "Ray Hamel",
+            "title": "Think You’re Smarter Than Slate’s Editor in Chief? Find Out With This Week’s News Quiz.",
+            "description": "Test your knowledge of this week’s big stories.",
+            "url": "https://slate.com/news-and-politics/2023/10/slate-news-quiz-house-speaker-hamas-pilot.html",
+            "urlToImage": "https://compote.slate.com/images/58f9c5af-8ef8-40ff-af13-d289e0144f59.jpeg?crop=1560%2C1040%2Cx0%2Cy1&width=1560",
+            "publishedAt": "2023-10-27T09:55:00Z",
+            "content": "Welcome to Slates weekly news quiz. Its Friday, which means its time to test your knowledge of the weeks news events. Your host, Ray Hamel, has concocted questions on news topics ranging from politic… [+736 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "tips@androidcentral.com (Vishnu Sarangapurkar)",
+            "title": "Snapdragon 8 Gen 3's benchmark results show its dominance over Apple's A17 Pro",
+            "description": "After unwrapping the Snapdragon 8 Gen 3 last week, Qualcomm has also provided some benchmarks of the chipset, revealing its dominance over Apple's chip.",
+            "url": "https://www.androidcentral.com/phones/qualcomm-snapdragon-gen-3-benchmark-test-results-released",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/JTFPxtm24hoTwB4MWXiA2R-1200-80.jpg",
+            "publishedAt": "2023-10-31T19:11:17Z",
+            "content": "<ul><li>Snapdragon 8 Gen 3 outshines Apple's A17 Pro in the latest Geekbench test.</li><li>It beats the Apple silicon processor in mult-score rating.</li><li>The Snapdragon 8 Gen 3 also dominated App… [+1637 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Stephen Clark",
+            "title": "Rocket Report: China launches 3-man crew; SpaceX adds to busy manifest",
+            "description": "ABL Space Systems has blamed its launch mount for a January rocket failure.",
+            "url": "https://arstechnica.com/space/2023/10/rocket-report-china-launches-3-man-crew-spacex-adds-to-busy-manifest/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/GettyImages-1745433413-760x380.jpg",
+            "publishedAt": "2023-10-27T11:00:50Z",
+            "content": "Enlarge/ A Long March 2F rocket climbed into space Thursday with a three-man crew heading for China's Tiangong space station.\r\n4 with \r\nWelcome to Edition 6.17 of the Rocket Report! Two Asian powers … [+18718 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "David McHugh / AP",
+            "title": "The Long-Symbolic Price Cap on Russian Oil Is Now Being Put to the Test",
+            "description": "With Russia's profits rising, the Israel-Hamas war pushing up global oil prices and evidence that some traders and shippers are evading the cap, the first signs of enforcement are appearing 10 months after the price limit was imposed in December.",
+            "url": "https://time.com/6327258/russia-oil-price-cap/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2023/10/Russia-Oil.jpg?quality=85",
+            "publishedAt": "2023-10-23T09:00:00Z",
+            "content": "FRANKFURT, Germany For months after Ukraine's Western allies limited sales of Russian oil to $60 per barrel, the price cap was still largely symbolic. Most of Moscow's crude its main moneymaker cost … [+7314 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Nikki Main",
+            "title": "AstraZeneca Requests FDA Approval For Self-Administered Nasal Flu Vaccine",
+            "description": "AstraZeneca submitted a request for the FDA on Wednesday to approve a self-administered nasal flu vaccine for people ages two to 49 years old. The vaccine, FluMist, would be the first at-home vaccine that would allow anyone 18 years of age and older to admini…",
+            "url": "https://gizmodo.com/astrazeneca-requests-fda-approval-for-self-administered-1850957779",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/4707f9b4ff22087b8d2ad8ab9702934b.jpg",
+            "publishedAt": "2023-10-25T18:25:00Z",
+            "content": "AstraZeneca submitted a request for the FDA on Wednesday to approve a self-administered nasal flu vaccine for people ages two to 49 years old. The vaccine, FluMist, would be the first at-home vaccine… [+1700 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seths.blog"
+            },
+            "author": "Seth Godin",
+            "title": "Scaffolds and talent",
+            "description": "Kindergarten teachers matter more than you think. Chess isn’t a talent, it’s a learned practice. We’re sorting for head starts, not growth. And that’s just the first chapter. I think Hidden Potential is the most important book in Adam Grant’s career. The indo…",
+            "url": "https://seths.blog/2023/10/scaffolds-and-talent/",
+            "urlToImage": "https://149521506.v2.pressablecdn.com/wp-content/uploads/2018/06/seth_godin_ogimages_v02_1806132-1.jpg",
+            "publishedAt": "2023-10-24T20:03:04Z",
+            "content": "Kindergarten teachers matter more than you think. Chess isn’t a talent, it’s a learned practice. We’re sorting for head starts, not growth. And that’s just the first chapter. I think Hidden Potential… [+543 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Stefan Porteck",
+            "title": "heise+ | Google Pixel Watch 2 im Test",
+            "description": "Die Pixel Watch 2 bleibt genauso schlank und schick wie ihre Vorgängerin. Technisch hat Google aber nachgebessert und sorgt für eine freudige Überraschung.",
+            "url": "https://www.heise.de/tests/Google-Pixel-Watch-2-im-Test-9349921.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/2/6/8/2/2/uebersetzer_126909_stri_extra_kahlel_frei-ce70bbcebe50e2ec.jpg",
+            "publishedAt": "2023-11-10T15:30:00Z",
+            "content": "Inhaltsverzeichnis\r\nOffenbar verfolgt Google wie bei den Pixel-Telefonen die Strategie, seinen Smartwatches ein unverwechselbares Aussehen zu spendieren. So ist auch die Pixel Watch 2 auf den ersten … [+1644 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "heise online"
+            },
+            "author": "Niklas Dierking",
+            "title": "heise+ | Linux-Distribution Ubuntu 23.10 im Test",
+            "description": "Canonical erpasst Ubuntu Desktop eine Schlankheitskur. Die experimentelle TPM-Verschlüsselung legt den Grundstein für einen lückenlos signierten Bootvorgang.",
+            "url": "https://www.heise.de/tests/Linux-Distribution-Ubuntu-23-10-im-Test-9339703.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+            "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/3/2/1/3/3/4/desktop-5550fd7f350c21c5.png",
+            "publishedAt": "2023-11-08T12:30:00Z",
+            "content": "Inhaltsverzeichnis\r\nEinige Ubuntu-Freunde, die Mitte Oktober Canonicals neuesten Wurf, Ubuntu 23.10 \"Mantic Minotaur\", herunterladen wollten, schauten erstmal in die Röhre: Etwa drei Stunden nach Rel… [+1428 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Scott Gilbertson",
+            "title": "4 Best Deals on Chromebook Plus Laptops at Best Buy",
+            "description": "A slew of laptops featuring Google's new Chromebook Plus specs are on sale right now at Best Buy for as little as $269.",
+            "url": "https://www.wired.com/story/chromebook-plus-deals-best-buy-october-2023/",
+            "urlToImage": "https://media.wired.com/photos/6537d1194d19da64d87719c5/191:100/w_1280,c_limit/HP---2-in-1-14'-Wide-Ultra-XGA-Touch-Screen-Chromebook-Plus-Laptop.jpg",
+            "publishedAt": "2023-10-24T14:38:29Z",
+            "content": "Remember when Chromebooks first launched with the pitch that they'd be cheap and all they'd need to run was a web browser so you didn't have to worry about specs? Yeah. Well, they mostly lived up to … [+3031 chars]"
+        }
+    ]
+}
